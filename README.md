@@ -1,7 +1,6 @@
 # app-dev
 My first repository
-## Favorite Series and Movie
-### ***Family by Choice***
+## ***Family by Choice***
 > Korean TV Series, 2024
 
 > Released Date: October 9, 2024
