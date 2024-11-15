@@ -3,7 +3,9 @@ My first repository
 ## Favorite Series and Movie
 ### ***Family by Choice***
 > Korean TV Series, 2024
+
 > Released Date: October 9, 2024
+
 > Episodes: 16 ***ongoing***
 It is an ongoing korean series which is an adaptation of the 2020 Chinese Drama ***Go Ahead***.
 The series is about the story of Kim San-Ha, Yoon Ju-won and Kang Hae-jun, three individuals comes from different family and unrealted blood.
